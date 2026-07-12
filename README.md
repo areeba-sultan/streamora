@@ -1,3 +1,10 @@
+![Next.js](https://img.shields.io/badge/Next.js-15-black)
+![NestJS](https://img.shields.io/badge/NestJS-Red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8)
+![TypeORM](https://img.shields.io/badge/TypeORM-E83524)
+
 # 🎬 Streamora
 
 Streamora is a full-stack movie streaming web application developed using **Next.js**, **NestJS**, and **PostgreSQL**. It provides users with a modern platform to explore movies, TV shows, anime, and web series, while offering a secure role-based admin panel for content management.
